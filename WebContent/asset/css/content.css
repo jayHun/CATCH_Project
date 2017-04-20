@@ -1,0 +1,40 @@
+@CHARSET "EUC-KR";
+.content{
+  position: relative;
+  margin-top: 50px;
+  width: 600px;
+  height: 400px;
+  background-color: white;
+  border: 7px double green;
+  border-radius: 10px;
+  float: left;
+  text-align: center;
+  padding-top: 50px;
+  overflow : auto;
+}
+.content2{
+  position: relative;
+  width: 500px;
+  height: 250px;
+  background-color: white;
+  border: 7px double blue;
+  border-radius: 10px;
+  float : center;
+  text-align: left;
+  padding-top : 20px;
+  margin-left : 40px;
+}
+
+.content3{
+  position: relative;
+  width: 500px;
+  height: 70px;
+  background-color: white;
+  border: 7px double blue;
+  border-radius: 10px;
+  float : center;
+  text-align: center;
+  padding-top : 20px;
+  margin-left : 40px;
+}
+
